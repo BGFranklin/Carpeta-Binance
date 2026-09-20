@@ -1,0 +1,13 @@
+.env
+.env.*
+.w00_webhook
+*whsec*
+*secret*
+*.pem
+*.key
+*.db
+*.sqlite
+depth.db
+market_context.db
+*.csv
+live/
